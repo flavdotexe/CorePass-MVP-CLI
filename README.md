@@ -74,10 +74,4 @@ with your data.
 
 Free for personal or educational use. I'm not responsible for your data loss. You are responsible for your data, so do responsibly and freely.
 
-`chmod +x CorePass.sh`
-
-`./CorePass.SH`
-
-
-
 "That the only permission that slows us down is sudo."
