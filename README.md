@@ -59,15 +59,15 @@ This process ensures that even short passwords are strengthened through derivati
 
 - Terminal with **UTF-8** encoding to ensure compatibility with special Latin characters (e.g.: `ñ, ç, ã, ü`)  
 - On **Linux**, make sure that the `LANG` or `LC_ALL` environment variable is set to UTF-8:
-`export LANG=en_US.UTF-8
+- `export LANG=en_US.UTF-8
 
 ===================================================================================
 
 ##️ Running on Linux
-Edit CorePass.sh file with Notepad, adjust path ("$HOME/your/data/path/CorePass-MVP-CLI/CorePass.CLI/CorePass.CLI.csproj") with your data.
+Edit CorePass.sh file with Notepad, adjust path ("home/your/data/path/CorePass-MVP-CLI/CorePass.CLI/CorePass.CLI.csproj") with your data.
 
 ## Runing on Windows
-Edit CorePass.bat file with Notepad, adjust path ("PROJECT_PATH=C:\Users\your\path\data\CorePass-MVP-CLI\CorePass.CLI\CorePass.CLI.csproj" 
+Edit CorePass.bat file with Notepad, adjust path ("PROJECT_PATH=C:\Users\your\data\path\CorePass-MVP-CLI\CorePass.CLI\CorePass.CLI.csproj" 
 with your data.
 
 ## License
