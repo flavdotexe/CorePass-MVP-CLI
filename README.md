@@ -25,7 +25,7 @@ deriving the key from the user's password via **PBKDF2** (`Rfc2898DeriveBytes`) 
 
 This process ensures that even short passwords are strengthened through derivation, making brute force attacks more difficult.
 
-====================================================================================================
+============================================================================================
 
 ## Important Warnings
 
@@ -36,22 +36,22 @@ This process ensures that even short passwords are strengthened through derivati
 - **Always** keep a secure physical backup of all logins and critical data.
 - Remember: ultimate security also depends on the strength of your master password.
 
-====================================================================================================
+============================================================================================
 
 ## Requirements
 
 **.NET 8 SDK**
 
 **Arch**: 
-`sudo pacman -S dotnet-sdk-8.0`
+- `sudo pacman -S dotnet-sdk-8.0`
 
 **Debian/Ubuntu**:
-`sudo apt-get update && sudo apt-get install -y wget apt-transport-https software-properties-common` 
-`wget https://packages.microsoft.com/config/debian/12/packages-microsoft-prod.deb -O packages-microsoft-prod.deb`
-`sudo dpkg -i packages-microsoft-prod.deb`
-`rm packages-microsoft-prod.deb`
-`sudo apt-get update`
-`sudo apt-get install -y dotnet-sdk-8.0`
+- `sudo apt-get update && sudo apt-get install -y wget apt-transport-https software-properties-common` 
+- `wget https://packages.microsoft.com/config/debian/12/packages-microsoft-prod.deb -O packages-microsoft-prod.deb`
+- `sudo dpkg -i packages-microsoft-prod.deb`
+- `rm packages-microsoft-prod.deb`
+- `sudo apt-get update`
+- `sudo apt-get install -y dotnet-sdk-8.0`
 
 **Windows**: 
 ==https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.413-windows-x64-installer==
