@@ -54,7 +54,7 @@ This process ensures that even short passwords are strengthened through derivati
 - `sudo apt-get install -y dotnet-sdk-8.0`
 
 **Windows**: 
-==https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.413-windows-x64-installer==
+-`https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.413-windows-x64-installer`
  
 
 - Terminal with **UTF-8** encoding to ensure compatibility with special Latin characters (e.g.: `ñ, ç, ã, ü`)  
