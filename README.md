@@ -25,7 +25,7 @@ deriving the key from the user's password via **PBKDF2** (`Rfc2898DeriveBytes`) 
 
 This process ensures that even short passwords are strengthened through derivation, making brute force attacks more difficult.
 
-============================================================================================
+===========================================================================
 
 ## Important Warnings
 
@@ -36,7 +36,7 @@ This process ensures that even short passwords are strengthened through derivati
 - **Always** keep a secure physical backup of all logins and critical data.
 - Remember: ultimate security also depends on the strength of your master password.
 
-============================================================================================
+===========================================================================
 
 ## Requirements
 
@@ -61,7 +61,7 @@ This process ensures that even short passwords are strengthened through derivati
 - On **Linux**, make sure that the `LANG` or `LC_ALL` environment variable is set to UTF-8:
 `export LANG=en_US.UTF-8
 
-====================================================================================================
+===================================================================================
 
 ##️ Running on Linux
 Edit CorePass.sh file with Notepad, adjust path ("$HOME/your/data/path/CorePass-MVP-CLI/CorePass.CLI/CorePass.CLI.csproj") with your data.
