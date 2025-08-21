@@ -10,10 +10,7 @@
    
    # CorePass CLI V1.1 - Your Hardcore Password Manager
    
-   CorePass CLI is a secure, offline, and lightweight password manager built for those who want 
-   security without the fluff. Store your logins, generate bulletproof passwords, and manage
-   everything with a slick terminal interface—all while keeping your data locked down with 
-   military-grade encryption. No internet, no nonsense, just pure *hardcore* password management.
+   CorePass CLI is a secure, offline, and lightweight password manager built for those who want security without the fluff. Store your logins, generate bulletproof passwords, and manage everything with a slick terminal interface—all while keeping your data locked down with military-grade encryption. No internet, no nonsense, just pure *hardcore* password management.
    
    ## Features
    
@@ -43,14 +40,14 @@
    - **IV size**: 128 bits
    - **Hash algorithm**: SHA-256
    
-   Everything is **00% local and offline**, so your data never touches the internet. The built-in password generator creates military-grade passwords to keep your accounts secure.
+   Everything is **00% local and offline**, so your data never touches the internet. The built in password generator creates military-grade passwords to keep your accounts secure.
    
    ## Security Warnings
    
    - **Do NOT store seed phrases or private keys** for cryptocurrencies or credit card details in CorePass. If you choose to do so, it’s at your own risk.
    - **Vault File Safety**: The `my_vault.vault` file is encrypted, but if you lose it, your data is gone. Keep a secure backup!
    - **Keyloggers**: Be cautious of keyloggers, especially for sensitive data. Consider using a clean virtual machine or TailsOS for maximum security.
-   - **Master Password**: Your vault’s security depends on a strong master password. Choose wisely and memorize it—there’s no recovery option.
+   - **Master Password**: Your vault’s security depends on a strong master password. Choose wisely and memorize it there’s no recovery option.
    - **Physical Backups**: Always maintain a secure physical backup of your logins and critical data.
    - **Clipboard**: Passwords are cleared from the clipboard after you press `Enter` or exit the program, minimizing exposure.
    
@@ -83,15 +80,15 @@ export LANG=en_US.UTF-8
 
 ### Windows Installation
 
-- Download and install the .NET 8 SDK: Download .NET 8 SDK.
+- Download and install the .NET 8 SDK: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 ## Running on Linux
 
 1. Clone the repository:
-
-- [ ] git clone https://github.com/flavdotexe/CorePass-MVP-CLI.git
+```bash
+  git clone https://github.com/flavdotexe/CorePass-MVP-CLI.git
   cd CorePass-MVP-CLI
-
+```
 1. Edit `CorePass.sh` with a text editor (e.g., `nano`):
 
    ```bash
