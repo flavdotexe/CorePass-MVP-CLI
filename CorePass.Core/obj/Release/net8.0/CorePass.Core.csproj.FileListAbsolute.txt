@@ -1,0 +1,36 @@
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.deps.json
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.dll
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.pdb
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.AssemblyReference.cache
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfoInputs.cache
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfo.cs
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.CoreCompileInputs.cache
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.dll
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/refint/CorePass.Core.dll
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.pdb
+C:/Users/Evelynn/Desktop/My Windows/Spacework/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/ref/CorePass.Core.dll
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.deps.json
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.dll
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/bin/Release/net8.0/CorePass.Core.pdb
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.AssemblyReference.cache
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfoInputs.cache
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfo.cs
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.CoreCompileInputs.cache
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.dll
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/refint/CorePass.Core.dll
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/CorePass.Core.pdb
+/home/fl4v1c0r3/Área de trabalho/Workspace/CorePass-MVP-CLI/CorePass.Core/obj/Release/net8.0/ref/CorePass.Core.dll
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/bin/Release/net8.0/CorePass.Core.deps.json
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/bin/Release/net8.0/CorePass.Core.dll
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/bin/Release/net8.0/CorePass.Core.pdb
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.AssemblyReference.cache
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfoInputs.cache
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.AssemblyInfo.cs
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.csproj.CoreCompileInputs.cache
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.dll
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/refint/CorePass.Core.dll
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/CorePass.Core.pdb
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/Release/net8.0/ref/CorePass.Core.dll

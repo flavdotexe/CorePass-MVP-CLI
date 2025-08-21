@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeraPass.CLI", "VeraPass.CLI\VeraPass.CLI.csproj", "{7161D5EE-C62E-E2EE-6B4E-E2FC7EEB4DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeraPass.Core", "VeraPass.Core\VeraPass.Core.csproj", "{ECFEA0AB-FD34-A10B-A4F4-8F813284B05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7161D5EE-C62E-E2EE-6B4E-E2FC7EEB4DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7161D5EE-C62E-E2EE-6B4E-E2FC7EEB4DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7161D5EE-C62E-E2EE-6B4E-E2FC7EEB4DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7161D5EE-C62E-E2EE-6B4E-E2FC7EEB4DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFEA0AB-FD34-A10B-A4F4-8F813284B05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFEA0AB-FD34-A10B-A4F4-8F813284B05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFEA0AB-FD34-A10B-A4F4-8F813284B05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEA0AB-FD34-A10B-A4F4-8F813284B05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F71815-E801-4E6C-9B52-CD97F431ECED}
+	EndGlobalSection
+EndGlobal

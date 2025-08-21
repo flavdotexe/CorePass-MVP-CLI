@@ -1,0 +1,5 @@
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/obj/Debug/net8.0/CorePass.CLI.csproj.AssemblyReference.cache
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/obj/Debug/net8.0/CorePass.CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/obj/Debug/net8.0/CorePass.CLI.AssemblyInfoInputs.cache
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/obj/Debug/net8.0/CorePass.CLI.AssemblyInfo.cs
+/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/obj/Debug/net8.0/CorePass.CLI.csproj.CoreCompileInputs.cache

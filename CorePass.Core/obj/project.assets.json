@@ -1,0 +1,269 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Konscious.Security.Cryptography.Argon2/1.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Konscious.Security.Cryptography.Blake2": "1.1.0",
+          "System.Memory": "4.5.4"
+        },
+        "compile": {
+          "lib/net6.0/Konscious.Security.Cryptography.Argon2.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Konscious.Security.Cryptography.Argon2.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Konscious.Security.Cryptography.Blake2/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Konscious.Security.Cryptography.Blake2.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Konscious.Security.Cryptography.Blake2.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "libsodium/1.0.18.2": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libsodium.so": {
+            "assetType": "native",
+            "rid": "linux-arm"
+          },
+          "runtimes/linux-arm64/native/libsodium.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-musl-x64/native/libsodium.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/libsodium.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-arm64/native/libsodium.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-x64/native/libsodium.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/libsodium.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/libsodium.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "Sodium.Core/1.3.1": {
+        "type": "package",
+        "dependencies": {
+          "libsodium": "1.0.18.2"
+        },
+        "compile": {
+          "lib/netstandard2.1/Sodium.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Sodium.Core.dll": {}
+        }
+      },
+      "System.Memory/4.5.4": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konscious.Security.Cryptography.Argon2/1.3.0": {
+      "sha512": "/pNPlNmjx7r7CGvw0WqO8Rk5vHHyUuzAWhB/PRKLZ2cmhQXoM6TYUooJcuES9zE9D+6yTOl+4LmFV2nKtgDyFg==",
+      "type": "package",
+      "path": "konscious.security.cryptography.argon2/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "konscious.security.cryptography.argon2.1.3.0.nupkg.sha512",
+        "konscious.security.cryptography.argon2.nuspec",
+        "lib/net46/Konscious.Security.Cryptography.Argon2.dll",
+        "lib/net46/Konscious.Security.Cryptography.Argon2.xml",
+        "lib/net6.0/Konscious.Security.Cryptography.Argon2.dll",
+        "lib/net6.0/Konscious.Security.Cryptography.Argon2.xml",
+        "lib/netstandard1.3/Konscious.Security.Cryptography.Argon2.dll",
+        "lib/netstandard1.3/Konscious.Security.Cryptography.Argon2.xml"
+      ]
+    },
+    "Konscious.Security.Cryptography.Blake2/1.1.0": {
+      "sha512": "enWOzNAlBjFcKoiBNVVLsa1ZzOciExznu+sUURE8dx322GI1LzrBxzEuZqjeOoK9oo9RubLtg96/7Y4JtUk9zA==",
+      "type": "package",
+      "path": "konscious.security.cryptography.blake2/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "konscious.security.cryptography.blake2.1.1.0.nupkg.sha512",
+        "konscious.security.cryptography.blake2.nuspec",
+        "lib/net46/Konscious.Security.Cryptography.Blake2.dll",
+        "lib/net46/Konscious.Security.Cryptography.Blake2.xml",
+        "lib/net6.0/Konscious.Security.Cryptography.Blake2.dll",
+        "lib/net6.0/Konscious.Security.Cryptography.Blake2.xml",
+        "lib/netstandard1.3/Konscious.Security.Cryptography.Blake2.dll",
+        "lib/netstandard1.3/Konscious.Security.Cryptography.Blake2.xml"
+      ]
+    },
+    "libsodium/1.0.18.2": {
+      "sha512": "flArHoVdscSzyV8ZdPV+bqqY2TTFlaN+xZf/vIqsmHI51KVcD/mOdUPaK3n/k/wGKz8dppiktXUqSmf3AXFgig==",
+      "type": "package",
+      "path": "libsodium/1.0.18.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "ChangeLog",
+        "LICENSE",
+        "libsodium.1.0.18.2.nupkg.sha512",
+        "libsodium.nuspec",
+        "runtimes/linux-arm/native/libsodium.so",
+        "runtimes/linux-arm64/native/libsodium.so",
+        "runtimes/linux-musl-x64/native/libsodium.so",
+        "runtimes/linux-x64/native/libsodium.so",
+        "runtimes/osx-arm64/native/libsodium.dylib",
+        "runtimes/osx-x64/native/libsodium.dylib",
+        "runtimes/win-x64/native/libsodium.dll",
+        "runtimes/win-x86/native/libsodium.dll"
+      ]
+    },
+    "Sodium.Core/1.3.1": {
+      "sha512": "l5dzW/cmWOKxIqKGy8DAdOlOkDNsRyMZA+CcTbZ4JzhHbHjZ4f9sGH88zOhRnk/yUPvybjCnRLbXzCaALRpm0Q==",
+      "type": "package",
+      "path": "sodium.core/1.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/netstandard2.0/Sodium.Core.dll",
+        "lib/netstandard2.1/Sodium.Core.dll",
+        "sodium.core.1.3.1.nupkg.sha512",
+        "sodium.core.nuspec"
+      ]
+    },
+    "System.Memory/4.5.4": {
+      "sha512": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "type": "package",
+      "path": "system.memory/4.5.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Memory.dll",
+        "lib/net461/System.Memory.xml",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.4.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Konscious.Security.Cryptography.Argon2 >= 1.3.0",
+      "Sodium.Core >= 1.3.1"
+    ]
+  },
+  "packageFolders": {
+    "/home/fl4v1c0r3/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/CorePass.Core.csproj",
+      "projectName": "CorePass.Core",
+      "projectPath": "/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/CorePass.Core.csproj",
+      "packagesPath": "/home/fl4v1c0r3/.nuget/packages/",
+      "outputPath": "/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.Core/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/fl4v1c0r3/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Konscious.Security.Cryptography.Argon2": {
+            "target": "Package",
+            "version": "[1.3.0, )"
+          },
+          "Sodium.Core": {
+            "target": "Package",
+            "version": "[1.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.19, 8.0.19]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

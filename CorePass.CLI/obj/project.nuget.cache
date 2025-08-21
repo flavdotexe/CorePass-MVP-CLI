@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcXxJMQcT/bKEBto/zEEZBuZf4oYOpLtQ5ELG/JJuHuwh0XvDZAw6mIqSXg7xIzfn7FB08FTZUWT83fCKvuCtA==",
+  "success": true,
+  "projectFilePath": "/home/fl4v1c0r3/Downloads/CorePass-MVP-CLI-main/CorePass.CLI/CorePass.CLI.csproj",
+  "expectedPackageFiles": [
+    "/home/fl4v1c0r3/.nuget/packages/konscious.security.cryptography.argon2/1.3.0/konscious.security.cryptography.argon2.1.3.0.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/konscious.security.cryptography.blake2/1.1.0/konscious.security.cryptography.blake2.1.1.0.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/libsodium/1.0.18.2/libsodium.1.0.18.2.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/sodium.core/1.3.1/sodium.core.1.3.1.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512",
+    "/home/fl4v1c0r3/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
