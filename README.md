@@ -40,7 +40,7 @@
    - **IV size**: 128 bits
    - **Hash algorithm**: SHA-256
    
-   Everything is **00% local and offline**, so your data never touches the internet. The built in password generator creates military-grade passwords to keep your accounts secure.
+   Everything is **100% local and offline**, so your data never touches the internet. The built in password generator creates military-grade passwords to keep your accounts secure.
    
    ## Security Warnings
    
